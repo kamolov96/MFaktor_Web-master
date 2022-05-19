@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/AdminService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/AdminService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/AuthService/AuthService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/AuthService/AuthService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/BotService/BotService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/BotService/BotService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/CatalogService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/ClientService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/ClientService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/Discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/Discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/Gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/Kafka/Kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MFaktor_Web-master/Kafka/Kafka/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

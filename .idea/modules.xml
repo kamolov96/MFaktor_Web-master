@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MFaktor_Web-master/AdminService/AdminService.iml" filepath="$PROJECT_DIR$/MFaktor_Web-master/AdminService/AdminService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MFaktor_Web-master/AuthService/AuthService/AuthService.iml" filepath="$PROJECT_DIR$/MFaktor_Web-master/AuthService/AuthService/AuthService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MFaktor_Web-master/BotService/BotService/BotService.iml" filepath="$PROJECT_DIR$/MFaktor_Web-master/BotService/BotService/BotService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MFaktor_Web-master/CatalogService/CatalogService.iml" filepath="$PROJECT_DIR$/MFaktor_Web-master/CatalogService/CatalogService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MFaktor_Web-master/ClientService/ClientService.iml" filepath="$PROJECT_DIR$/MFaktor_Web-master/ClientService/ClientService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MFaktor_Web-master/Discovery/Discovery.iml" filepath="$PROJECT_DIR$/MFaktor_Web-master/Discovery/Discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MFaktor_Web-master/Gateway/Gateway.iml" filepath="$PROJECT_DIR$/MFaktor_Web-master/Gateway/Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MFaktor_Web-master/Kafka/Kafka/Kafka.iml" filepath="$PROJECT_DIR$/MFaktor_Web-master/Kafka/Kafka/Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MFaktor_Web-master.iml" filepath="$PROJECT_DIR$/.idea/MFaktor_Web-master.iml" />
+    </modules>
+  </component>
+</project>
